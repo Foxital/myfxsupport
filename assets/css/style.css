@@ -432,6 +432,11 @@ label {
 	display: none;
 }
 
+.tradingview-widget-container{
+	margin-top: 5ex;
+}
+
+
 .header-action > ul {
 	display: flex;
 	align-items: center;
