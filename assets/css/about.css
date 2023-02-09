@@ -3083,6 +3083,7 @@ label {
 	background-position: center;
 	padding: 130px 0 250px;
 	position: relative;
+	overflow: hidden;
 }
 .contact-bg::after,
 .contact-bg::before {
