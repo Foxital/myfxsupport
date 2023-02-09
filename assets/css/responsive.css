@@ -525,7 +525,8 @@
 	right: 0px;
 }
 .about-shape-wrap img.shape-one {
-	display: none;
+	left: 1%;
+	bottom: 74%;
 }
 .about-shape-wrap img.shape-two {
 	right: 12%;
@@ -841,7 +842,7 @@
 	width: 100%;
 }
 .about-shape-wrap img.shape-two {
-	right: 14%;
+	right: 10%;
 	bottom: 3%;
 }
 .counter-inner {
@@ -1116,7 +1117,9 @@
 .mobile-lang {
 	display: block;
 }
-
+.contact-bg {
+	padding: 50px 0 50px;
+}
 
 .header-lang .lang-list li a {
 	font-size: 15px;
@@ -1127,12 +1130,9 @@
 	font-size: 14px;
 }
 
-
-
 .header-lang .selected-lang::after {
 	font-size: 14px;
 }
-
 
 .choose-content .title {
 	font-size: 22px;

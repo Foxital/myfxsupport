@@ -436,7 +436,6 @@ label {
 	margin-top: 5ex;
 }
 
-
 .header-action > ul {
 	display: flex;
 	align-items: center;
@@ -577,10 +576,15 @@ label {
 	display: block;
 	font-size: 14px;
 }
-.navbar-wrap ul li .sub-menu li a:hover,
-.navbar-wrap ul li .sub-menu li.active a {
+.navbar-wrap ul li .sub-menu li a:hover
+ {
 	color: #00C4F4;
 }
+
+.menu-style-two .navbar-wrap .active {
+	color: #00C4F4;
+}
+
 .navbar-wrap ul li:hover > .sub-menu {
 	opacity: 1;
 	visibility: visible;
