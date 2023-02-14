@@ -267,6 +267,7 @@
 }
 .choose-item-two .choose-content {
 	width: 98%;
+	
 }
 .counter-inner {
 	padding: 64px 45px 33px;
@@ -1133,6 +1134,16 @@
 .header-lang .selected-lang::after {
 	font-size: 14px;
 }
+
+.choose-icon-two img {
+	height: 48px;
+	margin-left: 1.5em;
+}
+.choose-item-two .choose-content {
+	width: 77%;
+	margin-left: 3em;
+}
+
 
 .choose-content .title {
 	font-size: 22px;
