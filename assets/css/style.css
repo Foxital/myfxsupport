@@ -1261,6 +1261,7 @@ label {
 	position: relative;
 	text-align: center;
 	padding: 55px 50px 60px;
+	margin-bottom: 2em;
 }
 .countdown-area-two .countdown-wrap::before {
 	content: "";
